@@ -11,8 +11,6 @@ object obj {
 	println("===Hello====")
 	println("===1===")
 	println("===2===")
-	
-
 
 
 
